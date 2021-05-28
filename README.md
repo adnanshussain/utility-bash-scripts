@@ -19,7 +19,7 @@ Logout and re-login into the terminal.
 Now you can run these scripts from any folder just by typing their name and you will also get AutoCompletion help from the bash terminal ! 😁
 
 ***Please raise an issue if something is not working as documented. Thanks***
-###*IVUS*###
+###IVUS###
 
 
 
